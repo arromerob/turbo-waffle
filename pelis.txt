@@ -7,3 +7,7 @@ no me gustó el final
 *listo
  *listones
  *listones carios
+1.algo
+1.otro
+ 1.otros
+ 1.otricos
